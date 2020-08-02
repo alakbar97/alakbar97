@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alakbar97&show_icons=true&count_private=true&theme=algolia">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alakbar97&layout=compact&theme=algolia&card_width=445">
+</p>
+
 <!--
 **alakbar97/alakbar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
